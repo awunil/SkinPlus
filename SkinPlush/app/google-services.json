@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "455221603358",
+    "firebase_url": "https://skinplush-1d4b0.firebaseio.com",
+    "project_id": "skinplush-1d4b0",
+    "storage_bucket": "skinplush-1d4b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455221603358:android:e794aec07120da84a4520f",
+        "android_client_info": {
+          "package_name": "com.skinplush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455221603358-odcg3odc7oiqgfp5lp1n960n49kmdtpf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skinplush",
+            "certificate_hash": "7ccfef48c2d7d07757d4b9ba153eca518f82d658"
+          }
+        },
+        {
+          "client_id": "455221603358-a8h6uqujos4uc9ct1bpul24jao7dll34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBffj1rRAOOYSC4BXNCGXORSf0yElIEF-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455221603358-a8h6uqujos4uc9ct1bpul24jao7dll34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
